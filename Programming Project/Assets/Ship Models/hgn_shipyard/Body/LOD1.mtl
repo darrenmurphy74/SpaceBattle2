@@ -1,0 +1,45 @@
+﻿newmtl A_TEX
+illum 2
+Kd 204 204 204
+Ka 51 51 51
+Ks 0 0 0
+Ke 0 0 0
+Ns 0
+map_Kd Hgn_Shipyard_A_EXPORT[1].png
+
+newmtl B_TEX
+illum 2
+Kd 204 204 204
+Ka 51 51 51
+Ks 0 0 0
+Ke 0 0 0
+Ns 0
+map_Kd Hgn_Shipyard_B_EXPORT[1].png
+
+newmtl Hgn_Burner
+illum 2
+Kd 204 204 204
+Ka 51 51 51
+Ks 0 0 0
+Ke 0 0 0
+Ns 0
+map_Kd Hgn_Shipyard_Burner_EXPORT[4].png
+
+newmtl Hgn_Engine
+illum 2
+Kd 204 204 204
+Ka 51 51 51
+Ks 0 0 0
+Ke 0 0 0
+Ns 0
+map_Kd Hgn_Shipyard_Engine_EXPORT[3].png
+
+newmtl Badge
+illum 2
+Kd 204 204 204
+Ka 51 51 51
+Ks 0 0 0
+Ke 0 0 0
+Ns 0
+map_Kd Hgn_Shipyard_Badge_EXPORT[1].png
+
